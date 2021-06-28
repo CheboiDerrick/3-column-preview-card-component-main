@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/CheboiDerrick/3-column-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://cheboiderrick.github.io/3-column-preview-card-component-main/)
 
 ## My process
 
